@@ -1,5 +1,5 @@
 ### Olá, me chamo Evandro Ferreira! 
-### Seja bem vino ao meu perfil do GitHub👋
+### Bem vino ao meu perfil do GitHub👋
 
 Sou estudante de Segurança da Informação na Fatec Araraquara e estou sempre em busca de aprimorar meus conhecimentos em tecnologia. Atualmente, estou focado em aprender mais sobre o sistema operacional Linux e em aprimorar minhas habilidades em redes.
 <p><br>
