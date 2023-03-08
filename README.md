@@ -1,12 +1,9 @@
 ### Hi there 👋
 
 
-<img src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="40" height="40"/>
-
-<img "https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" (https://www.credly.com/badges/1aa429d0-715e-4962-9078-8adec2f278bb)
 
 
-
+##### Badges:
 [<img src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="40" height="40"/>](https://www.credly.com/badges/1aa429d0-715e-4962-9078-8adec2f278bb)
 
 
