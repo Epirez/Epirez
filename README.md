@@ -8,7 +8,11 @@ Sou estudante de Segurança da Informação na Fatec Araraquara e estou sempre e
 <p><br>
 
 ##### Badges:
-[<img src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="60" height="60"/>](https://www.credly.com/badges/1aa429d0-715e-4962-9078-8adec2f278bb)[<img src="https://images.credly.com/size/340x340/images/0ab768d9-dda0-439e-aeef-edfa6e0f3579/image.png" width="70" height="60"/>](https://www.credly.com/earner/earned/badge/1f9fe7f4-30f7-4b82-ba67-1acc1a931fea)
+[<img src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="60" height="60"/>](https://www.credly.com/badges/1aa429d0-715e-4962-9078-8adec2f278bb)[<img src="https://images.credly.com/size/340x340/images/0ab768d9-dda0-439e-aeef-edfa6e0f3579/image.png" width="70" height="70"/>](https://www.credly.com/earner/earned/badge/1f9fe7f4-30f7-4b82-ba67-1acc1a931fea)
+ 
+#### Contato:  
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/evandrofmp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 
 <!--
