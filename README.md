@@ -4,11 +4,8 @@
 Sou estudante de Segurança da Informação na Fatec Araraquara e estou sempre em busca de aprimorar meus conhecimentos em tecnologia. Atualmente, estou focado em aprender mais sobre o sistema operacional Linux e em aprimorar minhas habilidades em redes.
 <p><br>
 
-<p align="right">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eirez&layout=compact&langs_count=7&theme=dracula"/>
-<a href="https://github.com/Epirez">
-<p/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Epirez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 ##### Badges:
 [<img src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="60" height="60"/>](https://www.credly.com/badges/1aa429d0-715e-4962-9078-8adec2f278bb)[<img src="https://images.credly.com/size/340x340/images/0ab768d9-dda0-439e-aeef-edfa6e0f3579/image.png" width="70" height="70"/>](https://www.credly.com/badges/1f9fe7f4-30f7-4b82-ba67-1acc1a931fea)
