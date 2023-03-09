@@ -6,17 +6,15 @@ Sou estudante de Segurança da Informação na Fatec Araraquara e estou sempre e
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Epirez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-##### Badges:
-[<img src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="60" height="60"/>](https://www.credly.com/badges/1aa429d0-715e-4962-9078-8adec2f278bb)[<img src="https://images.credly.com/size/340x340/images/0ab768d9-dda0-439e-aeef-edfa6e0f3579/image.png" width="70" height="70"/>](https://www.credly.com/badges/1f9fe7f4-30f7-4b82-ba67-1acc1a931fea)
- 
- <p><br>
 
-#### Contatos:  
-<div>  
-<a href="https://www.linkedin.com/in/evandrofmp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:evandrofemp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+  
+| Badges                                     |    Contatos                                                                                             |   
+|--------------------------------------------|---------------------------------------------------------------------------------------------------------|
+|  [<img src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="60" height="60"/>](https://www.credly.com/badges/1aa429d0-715e-4962-9078-8adec2f278bb)[<img src="https://images.credly.com/size/340x340/images/0ab768d9-dda0-439e-aeef-edfa6e0f3579/image.png" width="70" height="70"/>](https://www.credly.com/badges/1f9fe7f4-30f7-4b82-ba67-1acc1a931fea)  |  <a href="https://www.linkedin.com/in/evandrofmp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:evandrofemp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> |
+ 
+
+
+
 
 
 <!--
