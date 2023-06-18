@@ -5,8 +5,6 @@ Sou estudante de Segurança da Informação na Fatec Araraquara e estou sempre e
 <p><br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Epirez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
   
 | Insígnias                                   |    Contatos                                                                                             |   
 |--------------------------------------------|---------------------------------------------------------------------------------------------------------|
