@@ -1,5 +1,3 @@
-### Bem vino ao meu perfil do GitHub👋
-
 .
 <p><br>
 
